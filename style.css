@@ -522,10 +522,13 @@ nav ul li {
     }
 
     #features-version-title h1 {
-        font-size: 25px;
+        font-size: 30px;
         font-weight: 500px;
     }
-    
+    .features-version-introduction{
+        width:350px;
+        height:220px;
+    }
     .features-version-list {
         width: 400px;
         height: 210px;
