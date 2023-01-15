@@ -525,10 +525,10 @@ nav ul li {
         font-size: 30px;
         font-weight: 500px;
     }
-    .features-version-introduction{
-        width:350px;
-        height:220px;
+    #features-version-introduction{
+        text-align:center;
     }
+ 
     .features-version-list {
         width: 400px;
         height: 210px;
@@ -609,10 +609,6 @@ nav ul li {
         flex-direction: column;
         margin-top: 0;
         gap: 50px;
-    }
-
-    .fearures-version-introduction {
-        width: 100%;
     }
 
     .Experiance-btn {
