@@ -209,6 +209,10 @@ nav ul li {
     font-weight: 700;
     font-size: 45px;
 }
+#features-version-list{
+    margin-bottom: 20px;
+    color:#727272;
+}
 
 .features-version-img img {
     width: 100%;
@@ -465,6 +469,9 @@ nav ul li {
         margin-right: 10px;
         font-size: 10px;
     }
+    .banner-title{
+        margin-top:70px;
+    }
 
     .banner-title h1 {
         text-align: center;
@@ -517,6 +524,12 @@ nav ul li {
     #features-version-title h1 {
         font-size: 30px;
         font-weight: 500px;
+    }
+    #features-version-list{
+        width: 400px;
+        height: 210px;
+        padding: 30px 30px;
+        margin-bottom:15px;
     }
 
     .features-version-list {
@@ -602,6 +615,9 @@ nav ul li {
         flex-direction: column;
         margin-top: 0;
         gap: 50px;
+    }
+    .explore-btn{
+        padding:0px;
     }
 
     .Experiance-btn {
